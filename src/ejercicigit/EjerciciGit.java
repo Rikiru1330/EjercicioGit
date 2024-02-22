@@ -17,6 +17,7 @@ public class EjerciciGit {
         
         System.out.println("Linea 1");
         System.out.println("Linea 2");
+        System.out.println("En la rama. Se crea la clase nueva");
     }
     
 }
